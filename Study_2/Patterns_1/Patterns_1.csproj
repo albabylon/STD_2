@@ -43,8 +43,28 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbstractFactory\AbstractFactory.cs" />
+    <Compile Include="AbstractFactory\AbstractFactoryRealExample\Factories\DragonFactory.cs" />
+    <Compile Include="AbstractFactory\AbstractFactoryRealExample\Factories\IMonsterFactory.cs" />
+    <Compile Include="AbstractFactory\AbstractFactoryRealExample\Factories\OrcFactory.cs" />
+    <Compile Include="AbstractFactory\AbstractFactoryRealExample\Monster.cs" />
+    <Compile Include="AbstractFactory\AbstractFactoryRealExample\Movements\FlyMovement.cs" />
+    <Compile Include="AbstractFactory\AbstractFactoryRealExample\Movements\IMovement.cs" />
+    <Compile Include="AbstractFactory\AbstractFactoryRealExample\Movements\RunMovement.cs" />
+    <Compile Include="AbstractFactory\AbstractFactoryRealExample\Weapons\Axe.cs" />
+    <Compile Include="AbstractFactory\AbstractFactoryRealExample\Weapons\FireBreath.cs" />
+    <Compile Include="AbstractFactory\AbstractFactoryRealExample\Weapons\IWeapon.cs" />
+    <Compile Include="FactoryMethod\FactoryMethod.cs" />
+    <Compile Include="FactoryMethod\FactoryMethodRealExample\EmailMessage.cs" />
+    <Compile Include="FactoryMethod\FactoryMethodRealExample\EmailMessageSender.cs" />
+    <Compile Include="FactoryMethod\FactoryMethodRealExample\Message.cs" />
+    <Compile Include="FactoryMethod\FactoryMethodRealExample\MessageSender.cs" />
+    <Compile Include="FactoryMethod\FactoryMethodRealExample\SmsMessage.cs" />
+    <Compile Include="FactoryMethod\FactoryMethodRealExample\SmsMessageSender.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Singleton\Singleton.cs" />
+    <Compile Include="Singleton\SingletonRealExample.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
