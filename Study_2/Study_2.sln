@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns_2", "Study_2\Patterns_2.csproj", "{4F72EE68-4D4F-43F6-B625-C21190819A65}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns_2_StructuralP", "Study_2\Patterns_2_StructuralP.csproj", "{4F72EE68-4D4F-43F6-B625-C21190819A65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns_1", "Patterns_1\Patterns_1.csproj", "{7F58AB86-3EFC-4624-B52B-69FBD83C92E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns_1_GenerativeP", "Patterns_1\Patterns_1_GenerativeP.csproj", "{7F58AB86-3EFC-4624-B52B-69FBD83C92E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,5 +24,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B34DA1EC-C792-4E9E-A57C-6D8F6D95A72D}
 	EndGlobalSection
 EndGlobal

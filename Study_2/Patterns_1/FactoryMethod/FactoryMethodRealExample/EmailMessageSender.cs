@@ -13,7 +13,7 @@ namespace Patterns_1.FactoryMethod.FactoryMethodRealExample
     {
         public EmailMessageSender(string @from) : base(@from)
         { }
-        public override Message Send(string text)
+        public override Message Send(string text) //фабричный метод
         {
             return new EmailMessage();
         }
