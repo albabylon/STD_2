@@ -50,6 +50,15 @@
     <Compile Include="Adapter\AdapterRealExample\Devices\IPainter.cs" />
     <Compile Include="Adapter\AdapterRealExample\Devices\IPrinter.cs" />
     <Compile Include="Adapter\AdapterRealExample\Devices\PaperPrinter.cs" />
+    <Compile Include="Composite\Composite.cs" />
+    <Compile Include="Composite\CompositeRealExample\Component.cs" />
+    <Compile Include="Composite\CompositeRealExample\File.cs" />
+    <Compile Include="Composite\CompositeRealExample\Folder.cs" />
+    <Compile Include="Facade\Facade.cs" />
+    <Compile Include="Facade\FacadeRealExample\Components\Compiller.cs" />
+    <Compile Include="Facade\FacadeRealExample\Components\Editor.cs" />
+    <Compile Include="Facade\FacadeRealExample\Components\Runtime.cs" />
+    <Compile Include="Facade\FacadeRealExample\IdeFacade.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
