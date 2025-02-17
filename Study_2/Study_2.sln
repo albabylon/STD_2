@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns_1_GenerativeP", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns_3_BehavioralP", "Patterns_3_BehavioralP\Patterns_3_BehavioralP.csproj", "{2FF523E9-CB58-4538-ACCF-5F777CD56CB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID", "SOLID\SOLID.csproj", "{A96ED979-FE0A-4F9A-8973-DE6C3542CE36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLIDFinalTask", "SOLIDTask\SOLIDFinalTask.csproj", "{8481075D-CE25-4FB7-92C3-1F9EF4A3F8F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{2FF523E9-CB58-4538-ACCF-5F777CD56CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FF523E9-CB58-4538-ACCF-5F777CD56CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FF523E9-CB58-4538-ACCF-5F777CD56CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A96ED979-FE0A-4F9A-8973-DE6C3542CE36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96ED979-FE0A-4F9A-8973-DE6C3542CE36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96ED979-FE0A-4F9A-8973-DE6C3542CE36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96ED979-FE0A-4F9A-8973-DE6C3542CE36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8481075D-CE25-4FB7-92C3-1F9EF4A3F8F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8481075D-CE25-4FB7-92C3-1F9EF4A3F8F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8481075D-CE25-4FB7-92C3-1F9EF4A3F8F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8481075D-CE25-4FB7-92C3-1F9EF4A3F8F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
