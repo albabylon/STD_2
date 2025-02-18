@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID", "SOLID\SOLID.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLIDFinalTask", "SOLIDTask\SOLIDFinalTask.csproj", "{8481075D-CE25-4FB7-92C3-1F9EF4A3F8F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns_4_GenerativeP", "Patterns_4_GenerativeP\Patterns_4_GenerativeP.csproj", "{C26D44F7-718C-4F90-A37C-4D5505AB644D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{8481075D-CE25-4FB7-92C3-1F9EF4A3F8F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8481075D-CE25-4FB7-92C3-1F9EF4A3F8F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8481075D-CE25-4FB7-92C3-1F9EF4A3F8F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C26D44F7-718C-4F90-A37C-4D5505AB644D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26D44F7-718C-4F90-A37C-4D5505AB644D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26D44F7-718C-4F90-A37C-4D5505AB644D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26D44F7-718C-4F90-A37C-4D5505AB644D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
